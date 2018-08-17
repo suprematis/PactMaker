@@ -16,6 +16,6 @@
     "html-pdf": "^2.2.0",
     "lodash": "^4.17.5",
     "moment": "^2.22.1",
-    "postmark": "^1.5.0"
+    "postmark": "^1.6.1"
   }
 }
